@@ -9,3 +9,4 @@ redirect_from:
 ---
 
 I am a PhD candidate in political science at MIT. My research focuses on political methodology and international political economy.
+<a href = "tomoya_cv.pdf"><strong>cv</strong></a>
