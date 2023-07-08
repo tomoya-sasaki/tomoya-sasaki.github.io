@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href = "tomoya_cv.pdf"><strong>cv</strong></a>
+
 <!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
