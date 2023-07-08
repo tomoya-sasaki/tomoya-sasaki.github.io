@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 I am a PhD candidate in political science at MIT. My research focuses on political methodology and international political economy.
-CV is available [here](https://tomoya-sasaki.github.io/files/example.pdf).
+My CV is available [here](https://tomoya-sasaki.github.io/files/example.pdf).
 
 <!-- <a href = "tomoya_cv.pdf"><strong>cv</strong></a> -->
