@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in political science at MIT. My research focuses on political methodology and international political economy.
-My CV is available [here](https://tomoya-sasaki.github.io/files/tomoya_cv.pdf).
+I am a Data Scientist at Netflix. I hold a PhD from MIT. My research
+focuses on political methodology and international political economy.
+My CV is available
+[here](https://tomoya-sasaki.github.io/files/tomoya_cv.pdf).
 
 <!-- <a href = "tomoya_cv.pdf"><strong>cv</strong></a> -->
