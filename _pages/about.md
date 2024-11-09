@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist at Netflix. My research focuses on political
+I am a Data Scientist at Netflix.
+
+My academic research focuses on political
 methodology, political behavior, and political economy. My CV is
 available [here](https://tomoya-sasaki.github.io/files/tomoya_cv.pdf).
 
